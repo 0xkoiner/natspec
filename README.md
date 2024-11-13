@@ -25,7 +25,7 @@ A call-to-action with a link to the official documentation encourages further le
 I hope this works for you! Feel free to tweak it further if needed. 😊
 
 Let’s embrace a shared standard and build better smart contracts together.
-- - [Source] (https://docs.soliditylang.org/en/latest/style-guide.html#order-of-layout](https://docs.soliditylang.org/en/develop/natspec-format.html)
+- - [Source] (https://docs.soliditylang.org/en/latest/style-guide.html#natspec)
 - - [0xKoiner] (https://twitter.com/0xKoiner)
 - - [LinkedIn] (https://www.linkedin.com/in/alex-gray-61ba69251/)
   
